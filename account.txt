@@ -1,2 +1,2 @@
 Account Management
-Minimum Balance = 1000
+Minimum Balance = 3000
